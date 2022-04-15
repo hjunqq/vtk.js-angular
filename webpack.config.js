@@ -1,7 +1,7 @@
-const vtkRules = require('vtk.js/Utilities/config/dependency').webpack;
-
-module.exports = {
-  module: {
-    rules: vtkRules.core.rules,
-  },
-};
+// const vtkRules = require('vtk.js/Utilities/config/dependency').webpack;
+//
+// module.exports = {
+//   module: {
+//     rules: vtkRules.core.rules,
+//   },
+// };
