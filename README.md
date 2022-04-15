@@ -1,4 +1,4 @@
-# vtk.js + angular 13 in div an full page
+# vtk.js + angular 13 in div and in full page
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
